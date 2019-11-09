@@ -34,4 +34,4 @@ $ python manage.py runserver
 - **Third party payment**: Support Paypal payment.
 - **Cart**: Advanced payment and tax options, with full control over discounts and promotions.
 - **Payments**: Flexible API architecture allows integration of any payment method. 
-- **Cloud**: Can be deployed on AWS
+- **Cloud**: Deployed on AWS
