@@ -13,7 +13,7 @@
 </p>
 
 
-😃Group-9 Project
+😃Group-9 Project of ELEC9609
 ## Quick Start
 
 ```
