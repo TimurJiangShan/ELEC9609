@@ -1,4 +1,4 @@
-# Group-9
+# ELEC9609-Group-9
 
 <h1 align="center">Django+Vue</h1>
 <p align="center">
