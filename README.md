@@ -4,12 +4,10 @@
 <p align="center">
  <img src="https://s2.ax1x.com/2019/04/03/ActRs0.png" alt="ActRs0.png" border="0" />
  <img src="https://s2.ax1x.com/2019/04/03/ActBdS.png" alt="ActBdS.png" border="0" />
- <img alt="Node.js" src="https://nodejs.org/static/images/logo-light.svg" width="300"/>
 </p>
 <p align="center">
   <img src="https://img.shields.io/badge/language-Python3.7+-blue.svg">
   <img src="https://img.shields.io/badge/FrameWork-Django.2.2-green.svg">
-  <img src="https://img.shields.io/badge/FrameWork-Nodejs.v10.16.0-rgb(52, 235, 171).svg">
 </p>
 
 
