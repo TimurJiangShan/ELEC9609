@@ -20,7 +20,6 @@ $ pip install -r requirement.rtf
 $ python manage.py runserver
 ```
 
-
 ## Features & Tech stack
 
 - **Django**: Back-end framework using Django 2.2.
