@@ -10,7 +10,7 @@
   <img src="https://img.shields.io/badge/FrameWork-Django.2.2-green.svg">
 </p>
 
-😃Group-9 Project of ELEC9609
+😃 Welcome to NEPTUNE
 ## Quick Start
 
 ```
