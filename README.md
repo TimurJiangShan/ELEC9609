@@ -14,8 +14,8 @@
 ## Quick Start
 
 ```
-$ git clone https://github.sydney.edu.au/Internet-Software-Platform-2019/Group-9/
-$ cd Group-9
+$ git clone https://github.com/TimurJiangShan/NEPTUNE
+$ cd NEPTUNE-9
 $ pip install -r requirement.rtf
 $ python manage.py runserver
 ```
