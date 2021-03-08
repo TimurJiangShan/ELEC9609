@@ -1,4 +1,4 @@
-# ELEC9609-Group-9
+# Neptune
 
 <h1 align="center">Django+Vue</h1>
 <p align="center">
